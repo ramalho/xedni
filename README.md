@@ -1,0 +1,2 @@
+# xedni
+Inverted index class
